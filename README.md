@@ -1,48 +1,33 @@
+# Social Network API [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-# Social Network API            [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-## Description 
+## Description
 
 Social network backend using MongoDB
 
-
 ## Table of Contents
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
 
-Clone repo run npm i
+After cloning the repo run "npm i" to get necessary packages.
 
+## Usage
 
-## Usage 
-
-run npm start to test routes in insomnia
-
+run "npm start" to start the server to test routes in insomnia
 
 ## Contributing
 
 feel free to reach out with suggestions
 
-## Credits
-
-
-
-
 ## Questions
 
 If you have any additional questions about this project feel free to reach out!<br/>
 GitHub: [bgeertsen](https://github.com/bgeertsen)<br/>
-Email: a<br/>
-
-
 
 ## License
-    
+
 [License Info!](https://choosealicense.com/licenses/gpl-3.0/)
-
-
