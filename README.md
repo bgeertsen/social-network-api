@@ -19,6 +19,9 @@ After cloning the repo run "npm i" to get necessary packages.
 
 run "npm start" to start the server to test routes in insomnia
 
+[mod20-demo-vid.webm](https://user-images.githubusercontent.com/62928419/190489889-401ea0ec-2a7c-4a94-9249-2f3059d6e538.webm)
+
+
 ## Contributing
 
 feel free to reach out with suggestions
